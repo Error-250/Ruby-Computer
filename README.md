@@ -1,7 +1,7 @@
 # Ruby-Computer
 Simulate the computer's work
 
-在文件code.txt输入下列汇编代码<br>
+Type in file(code.txt) the following code.<br>
 <code>In 9</code><br>
 <code>Add 10, 9</code><br>
 <code>Out 9</code><br>
@@ -10,7 +10,7 @@ Simulate the computer's work
 
 <command>ruby Test.rb</command>
 
-产生<br>
+It will create the following code for computer.<br>
 <code>00000000</code><br>
 <code>00001001</code><br>
 <code>00000001</code><br>
@@ -23,5 +23,5 @@ Simulate the computer's work
 <code>00000000</code><br>
 <code>00000001</code><br>
 
-<command>ruby Computer.rb</command>
-将会执行这些代码
+<command>ruby Computer.rb</command><br>
+Then computer will run it.
